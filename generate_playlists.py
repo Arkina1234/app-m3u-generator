@@ -95,7 +95,7 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, tvg_logo, group_title,
 
 # --- Service Functions ---
 
-def generate_pluto_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
+def generate_pluto_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='chno'):
     """Generates M3U playlists for PlutoTV."""
     PLUTO_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/.channels.json.gz'
     STREAM_URL_TEMPLATE = 'https://jmp2.uk/plu-{id}.m3u8'
@@ -172,7 +172,7 @@ def generate_pluto_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
 
         write_m3u_file(f"plutotv_{region}.m3u", "".join(output_lines))
 
-def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
+def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='chno'):
     """Generates M3U playlists for Plex."""
     PLEX_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/.channels.json.gz'
     CHANNELS_JSON_URL = 'https://raw.githubusercontent.com/Mikoshi-nyudo/plex-channels-list/refs/heads/main/plex/channels.json' # For genre mapping
@@ -267,7 +267,7 @@ def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
         write_m3u_file(f"plex_{region}.m3u", "".join(output_lines))
 
 
-def generate_samsungtvplus_m3u(regions=['us', 'ca', 'gb', 'au', 'de', 'kr', 'all'], sort='name'):
+def generate_samsungtvplus_m3u(regions=['us', 'ca', 'gb', 'au', 'de', 'kr', 'all'], sort='chno'):
     """Generates M3U playlists for SamsungTVPlus."""
     SAMSUNG_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz'
     STREAM_URL_TEMPLATE = 'https://jmp2.uk/{slug}'
@@ -413,7 +413,7 @@ def generate_tubi_m3u():
 
     write_m3u_file("tubi_all.m3u", output_content)
 
-def generate_roku_m3u(sort='name'):
+def generate_roku_m3u(sort='chno'):
     """Generates M3U playlist for Roku."""
     ROKU_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz'
     STREAM_URL_TEMPLATE = 'https://jmp2.uk/rok-{id}.m3u8'
