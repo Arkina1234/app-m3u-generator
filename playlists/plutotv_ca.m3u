@@ -39,10 +39,6 @@ https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
 #EXTINF:-1 channel-id="62fb6da41afad500077e9178" tvg-id="62fb6da41afad500077e9178" tvg-chno="61" tvg-name="Thrillers 365" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Movies",Thrillers 365
 https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
-#EXTINF:-1 channel-id="68d10691190ea6327345a493" tvg-id="68d10691190ea6327345a493" tvg-chno="101" tvg-name="Will & Grace" tvg-logo="https://images.pluto.tv/channels/68d10691190ea6327345a493/colorLogoPNG_1759234894995.png" group-title="Comedy",Will & Grace
-https://jmp2.uk/plu-68d10691190ea6327345a493.m3u8
-#EXTINF:-1 channel-id="64ca354f9608a7000830b2f4" tvg-id="64ca354f9608a7000830b2f4" tvg-chno="102" tvg-name="Community" tvg-logo="https://images.pluto.tv/channels/64ca354f9608a7000830b2f4/colorLogoPNG_1756372054949.png" group-title="Comedy",Community
-https://jmp2.uk/plu-64ca354f9608a7000830b2f4.m3u8
 #EXTINF:-1 channel-id="62f4f90e39183b000769f12b" tvg-id="62f4f90e39183b000769f12b" tvg-chno="103" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Comedy",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 channel-id="62bdb7f0db2eb30007376d4d" tvg-id="62bdb7f0db2eb30007376d4d" tvg-chno="104" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Comedy",Cheers
@@ -397,8 +393,6 @@ https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8
 #EXTINF:-1 channel-id="62ea4b755e8e770007387b79" tvg-id="62ea4b755e8e770007387b79" tvg-chno="704" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/62ea4b755e8e770007387b79/colorLogoPNG.png" group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
-#EXTINF:-1 channel-id="65265b58bbd2d000089ceff5" tvg-id="65265b58bbd2d000089ceff5" tvg-chno="705" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/65265b58bbd2d000089ceff5/colorLogoPNG.png" group-title="Sports",PGA TOUR
-https://jmp2.uk/plu-65265b58bbd2d000089ceff5.m3u8
 #EXTINF:-1 channel-id="66fd394e9269330008413302" tvg-id="66fd394e9269330008413302" tvg-chno="706" tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png" group-title="Sports",AWSN
 https://jmp2.uk/plu-66fd394e9269330008413302.m3u8
 #EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="707" tvg-name="DAZN TV" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sports",DAZN TV
