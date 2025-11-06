@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/dk.xml.gz"
 #EXTINF:-1 channel-id="62bed7cb3279cb0007735327" tvg-id="62bed7cb3279cb0007735327" tvg-chno="1" tvg-name="Love Island UK" tvg-logo="https://images.pluto.tv/channels/62bed7cb3279cb0007735327/colorLogoPNG_1760363255404.png" group-title="Nyt på Pluto TV",Love Island UK
 https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
+#EXTINF:-1 channel-id="6391ce99da3fda0008024a96" tvg-id="6391ce99da3fda0008024a96" tvg-chno="2" tvg-name="Vore værste år" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV",Vore værste år
+https://jmp2.uk/plu-6391ce99da3fda0008024a96.m3u8
 #EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="3" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 #EXTINF:-1 channel-id="6525426e81f942000833d131" tvg-id="6525426e81f942000833d131" tvg-chno="5" tvg-name="Andersens Julehemmelighed" tvg-logo="https://images.pluto.tv/channels/6525426e81f942000833d131/colorLogoPNG.png" group-title="Nyt på Pluto TV",Andersens Julehemmelighed

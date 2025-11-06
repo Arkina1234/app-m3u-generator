@@ -135,10 +135,10 @@ https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 channel-id="67ff7dd84906b1acfad97330" tvg-id="67ff7dd84906b1acfad97330" tvg-chno="181" tvg-name="Blue Mountain State" tvg-logo="https://images.pluto.tv/channels/67ff7dd84906b1acfad97330/colorLogoPNG_1748596736714.png" group-title="Serien-Marathon",Blue Mountain State
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
-#EXTINF:-1 channel-id="65a67dd13af63d0008257f17" tvg-id="65a67dd13af63d0008257f17" tvg-chno="182" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="Serien-Marathon",90210
-https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 channel-id="60afb576053df900076fa2f0" tvg-id="60afb576053df900076fa2f0" tvg-chno="182" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="Serien-Marathon",Beverly Hills 90210
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+#EXTINF:-1 channel-id="65a67dd13af63d0008257f17" tvg-id="65a67dd13af63d0008257f17" tvg-chno="182" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="Serien-Marathon",90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 channel-id="64be745340962900080b55e7" tvg-id="64be745340962900080b55e7" tvg-chno="183" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/64be745340962900080b55e7/colorLogoPNG.png" group-title="Serien-Marathon",Melrose Place
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 channel-id="680f375e6798ccd1185b58f9" tvg-id="680f375e6798ccd1185b58f9" tvg-chno="184" tvg-name="Heartland" tvg-logo="https://images.pluto.tv/channels/680f375e6798ccd1185b58f9/colorLogoPNG_1745827732289.png" group-title="Serien-Marathon",Heartland
@@ -219,8 +219,6 @@ https://jmp2.uk/plu-67ebc104f7c5d70b90368360.m3u8
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 #EXTINF:-1 channel-id="64eddce19001910008df22b8" tvg-id="64eddce19001910008df22b8" tvg-chno="260" tvg-name="F.B.I. Files" tvg-logo="https://images.pluto.tv/channels/64eddce19001910008df22b8/colorLogoPNG.png" group-title="True Crime",F.B.I. Files
 https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
-#EXTINF:-1 channel-id="66b1f97414a2bb000863915f" tvg-id="66b1f97414a2bb000863915f" tvg-chno="261" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/66b1f97414a2bb000863915f/colorLogoPNG.png" group-title="True Crime",Homicide Hunter
-https://jmp2.uk/plu-66b1f97414a2bb000863915f.m3u8
 #EXTINF:-1 channel-id="615333098185f00008715a56" tvg-id="615333098185f00008715a56" tvg-chno="262" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="True Crime",Pluto TV True Crime
 https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 channel-id="650adc3198020f000862eed4" tvg-id="650adc3198020f000862eed4" tvg-chno="263" tvg-name="Unentdeckt – Mörder unter uns" tvg-logo="https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png" group-title="True Crime",Unentdeckt – Mörder unter uns
