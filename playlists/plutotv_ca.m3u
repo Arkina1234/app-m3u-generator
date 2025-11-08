@@ -5,11 +5,13 @@ https://jmp2.uk/plu-62ea41f42db3220007db97a6.m3u8
 https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
 #EXTINF:-1 channel-id="6729d651c7626f0008b5dacf" tvg-id="6729d651c7626f0008b5dacf" tvg-chno="3" tvg-name="Super Channel Hearties" tvg-logo="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/colorLogoPNG_1762179805396.png" group-title="Season's Greetings",Super Channel Hearties
 https://jmp2.uk/plu-6729d651c7626f0008b5dacf.m3u8
-#EXTINF:-1 channel-id="6541004f67bd1a0008606f61" tvg-id="6541004f67bd1a0008606f61" tvg-chno="4" tvg-name="MTV Xmas" tvg-logo="https://images.pluto.tv/channels/6541004f67bd1a0008606f61/colorLogoPNG_1731485750042.png" group-title="Season's Greetings",MTV Xmas
+#EXTINF:-1 channel-id="66fabb00d8eb45000862415c" tvg-id="66fabb00d8eb45000862415c" tvg-chno="4" tvg-name="The Great Christmas Light Fight" tvg-logo="https://images.pluto.tv/channels/66fabb00d8eb45000862415c/colorLogoPNG.png" group-title="Season's Greetings",The Great Christmas Light Fight
+https://jmp2.uk/plu-66fabb00d8eb45000862415c.m3u8
+#EXTINF:-1 channel-id="6541004f67bd1a0008606f61" tvg-id="6541004f67bd1a0008606f61" tvg-chno="5" tvg-name="MTV Xmas" tvg-logo="https://images.pluto.tv/channels/6541004f67bd1a0008606f61/colorLogoPNG_1731485750042.png" group-title="Season's Greetings",MTV Xmas
 https://jmp2.uk/plu-6541004f67bd1a0008606f61.m3u8
-#EXTINF:-1 channel-id="6728c70fc7626f0008b27f52" tvg-id="6728c70fc7626f0008b27f52" tvg-chno="5" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/6728c70fc7626f0008b27f52/colorLogoPNG_1731835968597.png" group-title="Season's Greetings",Stingray Holidayscapes
+#EXTINF:-1 channel-id="6728c70fc7626f0008b27f52" tvg-id="6728c70fc7626f0008b27f52" tvg-chno="6" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/6728c70fc7626f0008b27f52/colorLogoPNG_1731835968597.png" group-title="Season's Greetings",Stingray Holidayscapes
 https://jmp2.uk/plu-6728c70fc7626f0008b27f52.m3u8
-#EXTINF:-1 channel-id="68ee74b787869622d17a0f3a" tvg-id="68ee74b787869622d17a0f3a" tvg-chno="6" tvg-name="Paw Patrol Holiday Fireplace" tvg-logo="https://images.pluto.tv/channels/68ee74b787869622d17a0f3a/colorLogoPNG_1761844378558.png" group-title="Season's Greetings",Paw Patrol Holiday Fireplace
+#EXTINF:-1 channel-id="68ee74b787869622d17a0f3a" tvg-id="68ee74b787869622d17a0f3a" tvg-chno="7" tvg-name="Paw Patrol Holiday Fireplace" tvg-logo="https://images.pluto.tv/channels/68ee74b787869622d17a0f3a/colorLogoPNG_1761844378558.png" group-title="Season's Greetings",Paw Patrol Holiday Fireplace
 https://jmp2.uk/plu-68ee74b787869622d17a0f3a.m3u8
 #EXTINF:-1 channel-id="62ea3d24b8e02600071fa296" tvg-id="62ea3d24b8e02600071fa296" tvg-chno="51" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Movies",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
@@ -357,8 +359,6 @@ https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8
 https://jmp2.uk/plu-67b4b8b47d8025b1610a0a57.m3u8
 #EXTINF:-1 channel-id="62ea459c8d467f0007fbec86" tvg-id="62ea459c8d467f0007fbec86" tvg-chno="582" tvg-name="The Emeril Lagasse Channel" tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png" group-title="Home + Food",The Emeril Lagasse Channel
 https://jmp2.uk/plu-62ea459c8d467f0007fbec86.m3u8
-#EXTINF:-1 channel-id="6874adbb3ffa5e0c917f721e" tvg-id="6874adbb3ffa5e0c917f721e" tvg-chno="600" tvg-name="Pluto TV Kids Halloween" tvg-logo="https://images.pluto.tv/channels/6874adbb3ffa5e0c917f721e/colorLogoPNG_1752477271118.png" group-title="Kids",Pluto TV Kids Halloween
-https://jmp2.uk/plu-6874adbb3ffa5e0c917f721e.m3u8
 #EXTINF:-1 channel-id="62bdb75c3afd1200079146a6" tvg-id="62bdb75c3afd1200079146a6" tvg-chno="601" tvg-name="Nick Jr. Pluto TV" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 channel-id="62ea3ec626dc1900078e9f26" tvg-id="62ea3ec626dc1900078e9f26" tvg-chno="602" tvg-name="Paw Patrol" tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
