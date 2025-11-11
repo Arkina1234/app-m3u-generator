@@ -5,6 +5,8 @@ https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
 https://jmp2.uk/plu-6391ce99da3fda0008024a96.m3u8
 #EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="3" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1 channel-id="68dfa160cc3c6cd90404d798" tvg-id="68dfa160cc3c6cd90404d798" tvg-chno="8" tvg-name="Ridiculousness - Nye afsnit" tvg-logo="https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png" group-title="Nyt på Pluto TV",Ridiculousness - Nye afsnit
+https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
 #EXTINF:-1 channel-id="6501af923a0d700008b71b53" tvg-id="6501af923a0d700008b71b53" tvg-chno="9" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501af923a0d700008b71b53/colorLogoPNG.png" group-title="Nyt på Pluto TV",Hundehviskeren
 https://jmp2.uk/plu-6501af923a0d700008b71b53.m3u8
 #EXTINF:-1 channel-id="68d66a37508ba507f075bd8c" tvg-id="68d66a37508ba507f075bd8c" tvg-chno="11" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a37508ba507f075bd8c/colorLogoPNG_1760530309899.png" group-title="Nyt på Pluto TV",SUMO London 2025
@@ -141,8 +143,6 @@ https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 https://jmp2.uk/plu-65e9b6498b24c8000806b982.m3u8
 #EXTINF:-1 channel-id="65c33fd4dc10a40008f26af8" tvg-id="65c33fd4dc10a40008f26af8" tvg-chno="239" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c33fd4dc10a40008f26af8/colorLogoPNG.png" group-title="Sport",Monster Jam
 https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8
-#EXTINF:-1 channel-id="64ff1fa5bd341e000823a497" tvg-id="64ff1fa5bd341e000823a497" tvg-chno="241" tvg-name="Robot Wars by MECH+" tvg-logo="https://images.pluto.tv/channels/64ff1fa5bd341e000823a497/colorLogoPNG.png" group-title="Sport",Robot Wars by MECH+
-https://jmp2.uk/plu-64ff1fa5bd341e000823a497.m3u8
 #EXTINF:-1 channel-id="6177f8fdef21ab0007332b53" tvg-id="6177f8fdef21ab0007332b53" tvg-chno="243" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6177f8fdef21ab0007332b53/colorLogoPNG.png" group-title="Sport",World Poker Tour
 https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
 #EXTINF:-1 channel-id="668e5f2bcd0d3100080f6952" tvg-id="668e5f2bcd0d3100080f6952" tvg-chno="245" tvg-name="Triton Poker" tvg-logo="https://images.pluto.tv/channels/668e5f2bcd0d3100080f6952/colorLogoPNG.png" group-title="Sport",Triton Poker
@@ -243,7 +243,7 @@ https://jmp2.uk/plu-65788076b228b7000843fc9a.m3u8
 https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
 #EXTINF:-1 channel-id="61c092157e1b8b0007372a35" tvg-id="61c092157e1b8b0007372a35" tvg-chno="506" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" group-title="Det bedste fra MTV",MTV Teen Mom
 https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
-#EXTINF:-1 channel-id="62cd9641393d8400076f34db" tvg-id="62cd9641393d8400076f34db" tvg-chno="507" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG.png" group-title="Det bedste fra MTV",MTV Ridiculousness
+#EXTINF:-1 channel-id="62cd9641393d8400076f34db" tvg-id="62cd9641393d8400076f34db" tvg-chno="507" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" group-title="Det bedste fra MTV",MTV Ridiculousness
 https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
 #EXTINF:-1 channel-id="6442508e5a0cd500083edd3c" tvg-id="6442508e5a0cd500083edd3c" tvg-chno="509" tvg-name="Jersey Shore" tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" group-title="Det bedste fra MTV",Jersey Shore
 https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
