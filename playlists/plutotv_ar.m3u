@@ -49,6 +49,8 @@ https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
 #EXTINF:-1 channel-id="64ff270f30ab3300084e259c" tvg-id="64ff270f30ab3300084e259c" tvg-chno="127" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Series",Rookie Blue: Policías Novatos
 https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
+#EXTINF:-1 channel-id="678aa0b3680721c77c5035dd" tvg-id="678aa0b3680721c77c5035dd" tvg-chno="130" tvg-name="The Walking Dead by AMC" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png" group-title="Series",The Walking Dead by AMC
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 channel-id="5ec5761aabe4690007f6e047" tvg-id="5ec5761aabe4690007f6e047" tvg-chno="131" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" group-title="Series",Pluto TV Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 channel-id="65662f8a2c46f300088a84cc" tvg-id="65662f8a2c46f300088a84cc" tvg-chno="132" tvg-name="Pluto TV Series de Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png" group-title="Series",Pluto TV Series de Sci-Fi
@@ -81,8 +83,6 @@ https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
 #EXTINF:-1 channel-id="67f95fa76b11614ab0caaef3" tvg-id="67f95fa76b11614ab0caaef3" tvg-chno="210" tvg-name="Hechiceras" tvg-logo="https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png" group-title="Retro",Hechiceras
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
-#EXTINF:-1 channel-id="678aa0b3680721c77c5035dd" tvg-id="678aa0b3680721c77c5035dd" tvg-chno="210" tvg-name="The Walking Dead by AMC" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png" group-title="Series",The Walking Dead by AMC
-https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 channel-id="631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-chno="211" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Retro",Hechizada
 https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
 #EXTINF:-1 channel-id="63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-chno="235" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Retro",MacGyver
