@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
+#EXTINF:-1 channel-id="5f984b18dfe75800070e8645" tvg-id="5f984b18dfe75800070e8645" tvg-chno="19" tvg-name="Pluto TV Cine Navideño" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Pluto TV Cine Navideño
+https://jmp2.uk/plu-5f984b18dfe75800070e8645.m3u8
 #EXTINF:-1 channel-id="663a440c8ea5560008a4db8a" tvg-id="663a440c8ea5560008a4db8a" tvg-chno="20" tvg-name="Gaming Central: League of Legends" tvg-logo="https://images.pluto.tv/channels/663a440c8ea5560008a4db8a/colorLogoPNG_1747990943632.png" group-title="Nuevo en Pluto TV",Gaming Central: League of Legends
 https://jmp2.uk/plu-663a440c8ea5560008a4db8a.m3u8
 #EXTINF:-1 channel-id="6618e22624e1d000087a111c" tvg-id="6618e22624e1d000087a111c" tvg-chno="21" tvg-name="Gaming Central: Shooters" tvg-logo="https://images.pluto.tv/channels/6618e22624e1d000087a111c/colorLogoPNG_1747991043995.png" group-title="Nuevo en Pluto TV",Gaming Central: Shooters
@@ -277,8 +279,6 @@ https://jmp2.uk/plu-6076cd1df8576d0007c82193.m3u8
 https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
 #EXTINF:-1 channel-id="60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="622" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música",MTV Music Made in Spain
 https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
-#EXTINF:-1 channel-id="6686796619311200085310a0" tvg-id="6686796619311200085310a0" tvg-chno="623" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Música",MTV Flow Latino
-https://jmp2.uk/plu-6686796619311200085310a0.m3u8
 #EXTINF:-1 channel-id="61ea759737679900078ff559" tvg-id="61ea759737679900078ff559" tvg-chno="624" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Música",MTV Party Music
 https://jmp2.uk/plu-61ea759737679900078ff559.m3u8
 #EXTINF:-1 channel-id="65787eab32c1b300089a84d7" tvg-id="65787eab32c1b300089a84d7" tvg-chno="625" tvg-name="MTV Reggaeton" tvg-logo="https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png" group-title="Música",MTV Reggaeton

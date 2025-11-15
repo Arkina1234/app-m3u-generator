@@ -7,8 +7,6 @@ https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
 https://jmp2.uk/plu-6501ad3a98020f0008503dba.m3u8
 #EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="7" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Nytt på Pluto TV",Tennis Channel
 https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
-#EXTINF:-1 channel-id="68d66a69508ba507f075c185" tvg-id="68d66a69508ba507f075c185" tvg-chno="9" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a69508ba507f075c185/colorLogoPNG_1760525327856.png" group-title="Nytt på Pluto TV",SUMO London 2025
-https://jmp2.uk/plu-68d66a69508ba507f075c185.m3u8
 #EXTINF:-1 channel-id="68ef56ada362b63a8dcb5bd9" tvg-id="68ef56ada362b63a8dcb5bd9" tvg-chno="22" tvg-name="Pluto TV De beste julespesialene" tvg-logo="https://images.pluto.tv/channels/68ef56ada362b63a8dcb5bd9/colorLogoPNG_1762554617819.png" group-title="Jul rett rundt hjørnet",Pluto TV De beste julespesialene
 https://jmp2.uk/plu-68ef56ada362b63a8dcb5bd9.m3u8
 #EXTINF:-1 channel-id="66fcee104ca31f00080492e0" tvg-id="66fcee104ca31f00080492e0" tvg-chno="24" tvg-name="South Park: Holiday Collection" tvg-logo="https://images.pluto.tv/channels/66fcee104ca31f00080492e0/colorLogoPNG.png" group-title="Jul rett rundt hjørnet",South Park: Holiday Collection
@@ -21,6 +19,8 @@ https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
 https://jmp2.uk/plu-6357e94383c08f00076ce244.m3u8
 #EXTINF:-1 channel-id="632afc466699570007ed1106" tvg-id="632afc466699570007ed1106" tvg-chno="32" tvg-name="MTV Xmas" tvg-logo="https://images.pluto.tv/channels/632afc466699570007ed1106/colorLogoPNG_1762511820053.png" group-title="Jul rett rundt hjørnet",MTV Xmas
 https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
+#EXTINF:-1 channel-id="664f115ab18d700008058a32" tvg-id="664f115ab18d700008058a32" tvg-chno="34" tvg-name="The Great Christmas Light Fight" tvg-logo="https://images.pluto.tv/channels/664f115ab18d700008058a32/colorLogoPNG.png" group-title="Jul rett rundt hjørnet",The Great Christmas Light Fight
+https://jmp2.uk/plu-664f115ab18d700008058a32.m3u8
 #EXTINF:-1 channel-id="671f4fd9529ac900081c8fd7" tvg-id="671f4fd9529ac900081c8fd7" tvg-chno="36" tvg-name="Pluto TV Peis" tvg-logo="https://images.pluto.tv/channels/671f4fd9529ac900081c8fd7/colorLogoPNG_1731401528049.png" group-title="Jul rett rundt hjørnet",Pluto TV Peis
 https://jmp2.uk/plu-671f4fd9529ac900081c8fd7.m3u8
 #EXTINF:-1 channel-id="61c1db901346480007b7c345" tvg-id="61c1db901346480007b7c345" tvg-chno="52" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c1db901346480007b7c345/colorLogoPNG.png" group-title="Norsk reality og underholdning",Paradise Hotel
@@ -219,10 +219,10 @@ https://jmp2.uk/plu-682b3932faaa60cd7dbf87b4.m3u8
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 channel-id="61814ff322e67b00074a5c43" tvg-id="61814ff322e67b00074a5c43" tvg-chno="558" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/61814ff322e67b00074a5c43/colorLogoPNG.png" group-title="Mat & livsstil",Project Runway
 https://jmp2.uk/plu-61814ff322e67b00074a5c43.m3u8
-#EXTINF:-1 channel-id="63c95451d3485c0007734f55" tvg-id="63c95451d3485c0007734f55" tvg-chno="560" tvg-name="Tareq Taylor's Nordic Cookery" tvg-logo="https://images.pluto.tv/channels/63c95451d3485c0007734f55/colorLogoPNG.png" group-title="Mat & livsstil",Tareq Taylor's Nordic Cookery
-https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
 #EXTINF:-1 channel-id="66d71485167a8b0008fd3345" tvg-id="66d71485167a8b0008fd3345" tvg-chno="560" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
 https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
+#EXTINF:-1 channel-id="63c95451d3485c0007734f55" tvg-id="63c95451d3485c0007734f55" tvg-chno="560" tvg-name="Tareq Taylor's Nordic Cookery" tvg-logo="https://images.pluto.tv/channels/63c95451d3485c0007734f55/colorLogoPNG.png" group-title="Mat & livsstil",Tareq Taylor's Nordic Cookery
+https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
 #EXTINF:-1 channel-id="654a59d483595c0008187514" tvg-id="654a59d483595c0008187514" tvg-chno="602" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59d483595c0008187514/colorLogoPNG.png" group-title="Gamle godbiter",MacGyver
 https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
 #EXTINF:-1 channel-id="62a0ae8b2241f500073e0925" tvg-id="62a0ae8b2241f500073e0925" tvg-chno="604" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0ae8b2241f500073e0925/colorLogoPNG.png" group-title="Gamle godbiter",Walker Texas Ranger
