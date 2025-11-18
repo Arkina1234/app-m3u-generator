@@ -35,6 +35,10 @@ https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
 #EXTINF:-1 channel-id="5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="90" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1762273018940.png" group-title="Películas",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1761061283313.png" group-title="¡Fiestas con todo!",Pluto TV Cine Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
+#EXTINF:-1 channel-id="66e1e05a15d2c60008e4b2db" tvg-id="66e1e05a15d2c60008e4b2db" tvg-chno="98" tvg-name="MTV Música Navideña" tvg-logo="https://images.pluto.tv/channels/66e1e05a15d2c60008e4b2db/colorLogoPNG.png" group-title="¡Fiestas con todo!",MTV Música Navideña
+https://jmp2.uk/plu-66e1e05a15d2c60008e4b2db.m3u8
 #EXTINF:-1 channel-id="655f62ff954b020008c91ec6" tvg-id="655f62ff954b020008c91ec6" tvg-chno="102" tvg-name="Pluto TV Series de Crimen" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="Zona Criminal",Pluto TV Series de Crimen
 https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
 #EXTINF:-1 channel-id="63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-chno="104" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Zona Criminal",CSI: Miami
@@ -271,6 +275,8 @@ https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
 #EXTINF:-1 channel-id="68224482c5d53e1351aaf2f2" tvg-id="68224482c5d53e1351aaf2f2" tvg-chno="1120" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="Entretenimiento",Canal Claro
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:-1 channel-id="68ba0910e1d03fec7d5c084f" tvg-id="68ba0910e1d03fec7d5c084f" tvg-chno="1122" tvg-name="Al Ritmo del Jaripeo" tvg-logo="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG_1760471497704.png" group-title="Entretenimiento",Al Ritmo del Jaripeo
+https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 #EXTINF:-1 channel-id="64fb1f6e6625510008c00848" tvg-id="64fb1f6e6625510008c00848" tvg-chno="1181" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png" group-title="Estilo de Vida",Homeful
 https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1759333647384.png" group-title="Estilo de Vida",Pluto TV Estilo de Vida

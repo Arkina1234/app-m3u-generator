@@ -43,6 +43,12 @@ https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 channel-id="633dcebd80386500074a2461" tvg-id="633dcebd80386500074a2461" tvg-chno="84" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Filmes",Filmelier TV
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
+#EXTINF:-1 channel-id="5f8a11ce2a4559000782a583" tvg-id="5f8a11ce2a4559000782a583" tvg-chno="95" tvg-name="Pluto TV Cine Natal" tvg-logo="https://images.pluto.tv/channels/5f8a11ce2a4559000782a583/colorLogoPNG.png" group-title="Boas Festas",Pluto TV Cine Natal
+https://jmp2.uk/plu-5f8a11ce2a4559000782a583.m3u8
+#EXTINF:-1 channel-id="66e1e2d515d2c60008e4b690" tvg-id="66e1e2d515d2c60008e4b690" tvg-chno="98" tvg-name="MTV Músicas de Natal" tvg-logo="https://images.pluto.tv/channels/66e1e2d515d2c60008e4b690/colorLogoPNG.png" group-title="Boas Festas",MTV Músicas de Natal
+https://jmp2.uk/plu-66e1e2d515d2c60008e4b690.m3u8
+#EXTINF:-1 channel-id="68d193184251718916945fb7" tvg-id="68d193184251718916945fb7" tvg-chno="99" tvg-name="Tempero de Fim de Ano" tvg-logo="https://images.pluto.tv/channels/68d193184251718916945fb7/colorLogoPNG_1761672326841.png" group-title="Boas Festas",Tempero de Fim de Ano
+https://jmp2.uk/plu-68d193184251718916945fb7.m3u8
 #EXTINF:-1 channel-id="6474ab5cdc7a760008745008" tvg-id="6474ab5cdc7a760008745008" tvg-chno="102" tvg-name="Pluto TV Séries Criminais" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Séries",Pluto TV Séries Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 #EXTINF:-1 channel-id="63eb9c5351f5d000085e8d7e" tvg-id="63eb9c5351f5d000085e8d7e" tvg-chno="104" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Séries",CSI: Miami

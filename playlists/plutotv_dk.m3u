@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/dk.xml.gz"
-#EXTINF:-1 channel-id="62bed7cb3279cb0007735327" tvg-id="62bed7cb3279cb0007735327" tvg-chno="1" tvg-name="Love Island UK" tvg-logo="https://images.pluto.tv/channels/62bed7cb3279cb0007735327/colorLogoPNG_1760363255404.png" group-title="Nyt på Pluto TV",Love Island UK
-https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
 #EXTINF:-1 channel-id="6391ce99da3fda0008024a96" tvg-id="6391ce99da3fda0008024a96" tvg-chno="2" tvg-name="Vore værste år" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV",Vore værste år
 https://jmp2.uk/plu-6391ce99da3fda0008024a96.m3u8
 #EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="3" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1 channel-id="68adad09e7bb4fffe8a9461b" tvg-id="68adad09e7bb4fffe8a9461b" tvg-chno="5" tvg-name="Ernest goes to Pluto TV" tvg-logo="https://images.pluto.tv/channels/68adad09e7bb4fffe8a9461b/colorLogoPNG_1763018046124.png" group-title="Nyt på Pluto TV",Ernest goes to Pluto TV
+https://jmp2.uk/plu-68adad09e7bb4fffe8a9461b.m3u8
 #EXTINF:-1 channel-id="68dfa160cc3c6cd90404d798" tvg-id="68dfa160cc3c6cd90404d798" tvg-chno="8" tvg-name="Ridiculousness - Nye afsnit" tvg-logo="https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png" group-title="Nyt på Pluto TV",Ridiculousness - Nye afsnit
 https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
 #EXTINF:-1 channel-id="6501af923a0d700008b71b53" tvg-id="6501af923a0d700008b71b53" tvg-chno="9" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501af923a0d700008b71b53/colorLogoPNG.png" group-title="Nyt på Pluto TV",Hundehviskeren
@@ -201,6 +201,8 @@ https://jmp2.uk/plu-68adabdb5190a45dc9c4d8d4.m3u8
 https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
 #EXTINF:-1 channel-id="62bebc3459624e00078209c3" tvg-id="62bebc3459624e00078209c3" tvg-chno="424" tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" group-title="Film",Viafree Movies
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1 channel-id="62bed7cb3279cb0007735327" tvg-id="62bed7cb3279cb0007735327" tvg-chno="450" tvg-name="Love Island UK" tvg-logo="https://images.pluto.tv/channels/62bed7cb3279cb0007735327/colorLogoPNG_1760363255404.png" group-title="Realityserier",Love Island UK
+https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
 #EXTINF:-1 channel-id="68ad8bececd330dcb0f050b5" tvg-id="68ad8bececd330dcb0f050b5" tvg-chno="451" tvg-name="Love Island: All Stars" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Realityserier",Love Island: All Stars
 https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
 #EXTINF:-1 channel-id="6464cc595a0cd500088c7749" tvg-id="6464cc595a0cd500088c7749" tvg-chno="452" tvg-name="America's Next Top Model" tvg-logo="https://images.pluto.tv/channels/6464cc595a0cd500088c7749/colorLogoPNG.png" group-title="Realityserier",America's Next Top Model

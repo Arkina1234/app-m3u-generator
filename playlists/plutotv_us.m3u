@@ -229,7 +229,7 @@ https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
 #EXTINF:-1 channel-id="6887a4e01067b66fa16966ec" tvg-id="6887a4e01067b66fa16966ec" tvg-chno="1237" tvg-name="Live PD Presents" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="True Crime",Live PD Presents
 https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
-#EXTINF:-1 channel-id="65492fc7056b9700088560b5" tvg-id="65492fc7056b9700088560b5" tvg-chno="1240" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png" group-title="True Crime",American Crimes
+#EXTINF:-1 channel-id="65492fc7056b9700088560b5" tvg-id="65492fc7056b9700088560b5" tvg-chno="1240" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="True Crime",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 #EXTINF:-1 channel-id="637413d8531e0c0007442d6d" tvg-id="637413d8531e0c0007442d6d" tvg-chno="1250" tvg-name="Dateline 24/7" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="True Crime",Dateline 24/7
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
@@ -427,8 +427,8 @@ https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 channel-id="5dc9b875e280c80009a8a44a" tvg-id="5dc9b875e280c80009a8a44a" tvg-chno="2560" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="News + Opinion",CBS News Los Angeles
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
-#EXTINF:-1 channel-id="62cdc75b1a1cbd0007ed45dc" tvg-id="62cdc75b1a1cbd0007ed45dc" tvg-chno="2570" tvg-name="CBS News Chicago" tvg-logo="https://images.pluto.tv/channels/62cdc75b1a1cbd0007ed45dc/colorLogoPNG.png" group-title="News + Opinion",CBS News Chicago
-https://jmp2.uk/plu-62cdc75b1a1cbd0007ed45dc.m3u8
+#EXTINF:-1 channel-id="62cdc7c2a3e6270007f3f2f3" tvg-id="62cdc7c2a3e6270007f3f2f3" tvg-chno="2570" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png" group-title="News + Opinion",CBS News Boston
+https://jmp2.uk/plu-62cdc7c2a3e6270007f3f2f3.m3u8
 #EXTINF:-1 channel-id="60fb299b79498900070b29e0" tvg-id="60fb299b79498900070b29e0" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="Local News",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
 #EXTINF:-1 channel-id="5d695f7db53adf96b78e7ce3" tvg-id="5d695f7db53adf96b78e7ce3" tvg-chno="2580" tvg-name="TODAY All Day" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="News + Opinion",TODAY All Day

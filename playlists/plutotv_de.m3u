@@ -133,10 +133,10 @@ https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 channel-id="67ff7dd84906b1acfad97330" tvg-id="67ff7dd84906b1acfad97330" tvg-chno="181" tvg-name="Blue Mountain State" tvg-logo="https://images.pluto.tv/channels/67ff7dd84906b1acfad97330/colorLogoPNG_1748596736714.png" group-title="Serien-Marathon",Blue Mountain State
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
-#EXTINF:-1 channel-id="60afb576053df900076fa2f0" tvg-id="60afb576053df900076fa2f0" tvg-chno="182" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="Serien-Marathon",Beverly Hills 90210
-https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 channel-id="65a67dd13af63d0008257f17" tvg-id="65a67dd13af63d0008257f17" tvg-chno="182" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="Serien-Marathon",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 channel-id="60afb576053df900076fa2f0" tvg-id="60afb576053df900076fa2f0" tvg-chno="182" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="Serien-Marathon",Beverly Hills 90210
+https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 channel-id="64be745340962900080b55e7" tvg-id="64be745340962900080b55e7" tvg-chno="183" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/64be745340962900080b55e7/colorLogoPNG.png" group-title="Serien-Marathon",Melrose Place
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 channel-id="680f375e6798ccd1185b58f9" tvg-id="680f375e6798ccd1185b58f9" tvg-chno="184" tvg-name="Heartland" tvg-logo="https://images.pluto.tv/channels/680f375e6798ccd1185b58f9/colorLogoPNG_1745827732289.png" group-title="Serien-Marathon",Heartland
@@ -319,11 +319,13 @@ https://jmp2.uk/plu-67fe498f9ebfe4142424c55d.m3u8
 https://jmp2.uk/plu-659e598ab9adc4000843c574.m3u8
 #EXTINF:-1 channel-id="630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-chno="390" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" group-title="Western",Pluto TV Western
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
-#EXTINF:-1 channel-id="638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-chno="391" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="Western",Rauchende Colts
+#EXTINF:-1 channel-id="684ac10236c9361b1977f7bc" tvg-id="684ac10236c9361b1977f7bc" tvg-chno="391" tvg-name="Bronco" tvg-logo="https://images.pluto.tv/channels/684ac10236c9361b1977f7bc/colorLogoPNG_1757588251975.png" group-title="Western",Bronco
+https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
+#EXTINF:-1 channel-id="638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-chno="392" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="Western",Rauchende Colts
 https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
-#EXTINF:-1 channel-id="638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-chno="392" tvg-name="Rawhide - Tausend Meilen Staub" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" group-title="Western",Rawhide - Tausend Meilen Staub
+#EXTINF:-1 channel-id="638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-chno="393" tvg-name="Rawhide - Tausend Meilen Staub" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" group-title="Western",Rawhide - Tausend Meilen Staub
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
-#EXTINF:-1 channel-id="6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-chno="393" tvg-name="Fury" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" group-title="Western",Fury
+#EXTINF:-1 channel-id="6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-chno="394" tvg-name="Fury" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" group-title="Western",Fury
 https://jmp2.uk/plu-6270ea4345f5bc0007823048.m3u8
 #EXTINF:-1 channel-id="64526a145a0cd50008632bfa" tvg-id="64526a145a0cd50008632bfa" tvg-chno="410" tvg-name="Pluto TV heiße Nächte" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png" group-title="Sinnliche Fantasien",Pluto TV heiße Nächte
 https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8

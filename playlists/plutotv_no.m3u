@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/no.xml.gz"
-#EXTINF:-1 channel-id="68ac55fe3efb41cd979a6877" tvg-id="68ac55fe3efb41cd979a6877" tvg-chno="1" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png" group-title="Nytt på Pluto TV",Pluto TV Snooker 900
-https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
+#EXTINF:-1 channel-id="68adaf5c247c66a111555ad4" tvg-id="68adaf5c247c66a111555ad4" tvg-chno="2" tvg-name="Ernest goes to Pluto TV" tvg-logo="https://images.pluto.tv/channels/68adaf5c247c66a111555ad4/colorLogoPNG_1763018259996.png" group-title="Nytt på Pluto TV",Ernest goes to Pluto TV
+https://jmp2.uk/plu-68adaf5c247c66a111555ad4.m3u8
 #EXTINF:-1 channel-id="68dfa1a7fae18f8db6218222" tvg-id="68dfa1a7fae18f8db6218222" tvg-chno="3" tvg-name="Ridiculousness - Nye episoder" tvg-logo="https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png" group-title="Nytt på Pluto TV",Ridiculousness - Nye episoder
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
 #EXTINF:-1 channel-id="6501ad3a98020f0008503dba" tvg-id="6501ad3a98020f0008503dba" tvg-chno="5" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501ad3a98020f0008503dba/colorLogoPNG.png" group-title="Nytt på Pluto TV",Hundehviskeren
 https://jmp2.uk/plu-6501ad3a98020f0008503dba.m3u8
-#EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="7" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Nytt på Pluto TV",Tennis Channel
-https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
 #EXTINF:-1 channel-id="68ef56ada362b63a8dcb5bd9" tvg-id="68ef56ada362b63a8dcb5bd9" tvg-chno="22" tvg-name="Pluto TV De beste julespesialene" tvg-logo="https://images.pluto.tv/channels/68ef56ada362b63a8dcb5bd9/colorLogoPNG_1762554617819.png" group-title="Jul rett rundt hjørnet",Pluto TV De beste julespesialene
 https://jmp2.uk/plu-68ef56ada362b63a8dcb5bd9.m3u8
 #EXTINF:-1 channel-id="66fcee104ca31f00080492e0" tvg-id="66fcee104ca31f00080492e0" tvg-chno="24" tvg-name="South Park: Holiday Collection" tvg-logo="https://images.pluto.tv/channels/66fcee104ca31f00080492e0/colorLogoPNG.png" group-title="Jul rett rundt hjørnet",South Park: Holiday Collection
@@ -69,6 +67,8 @@ https://jmp2.uk/plu-660e746024e1d00008610ea1.m3u8
 https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
 #EXTINF:-1 channel-id="67a23b899a300a00086f3371" tvg-id="67a23b899a300a00086f3371" tvg-chno="158" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png" group-title="Sport",Dominance FC TV
 https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
+#EXTINF:-1 channel-id="68ac55fe3efb41cd979a6877" tvg-id="68ac55fe3efb41cd979a6877" tvg-chno="159" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png" group-title="Sport",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
 #EXTINF:-1 channel-id="62e7ba25be69bc0007b77fdc" tvg-id="62e7ba25be69bc0007b77fdc" tvg-chno="160" tvg-name="Jakt är Jakt" tvg-logo="https://images.pluto.tv/channels/62e7ba25be69bc0007b77fdc/colorLogoPNG.png" group-title="Sport",Jakt är Jakt
 https://jmp2.uk/plu-62e7ba25be69bc0007b77fdc.m3u8
 #EXTINF:-1 channel-id="671b4e47daad7f000868b840" tvg-id="671b4e47daad7f000868b840" tvg-chno="161" tvg-name="Horse & Country" tvg-logo="https://images.pluto.tv/channels/671b4e47daad7f000868b840/colorLogoPNG.png" group-title="Sport",Horse & Country
@@ -95,6 +95,8 @@ https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 https://jmp2.uk/plu-65e9b676332fec00085b300e.m3u8
 #EXTINF:-1 channel-id="65df1191f7f0af0008c24a32" tvg-id="65df1191f7f0af0008c24a32" tvg-chno="184" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df1191f7f0af0008c24a32/colorLogoPNG.png" group-title="Sport",Billiard TV
 https://jmp2.uk/plu-65df1191f7f0af0008c24a32.m3u8
+#EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="185" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Sport",Tennis Channel
+https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
 #EXTINF:-1 channel-id="668e60013a4ad20008c878f4" tvg-id="668e60013a4ad20008c878f4" tvg-chno="186" tvg-name="Triton Poker" tvg-logo="https://images.pluto.tv/channels/668e60013a4ad20008c878f4/colorLogoPNG.png" group-title="Sport",Triton Poker
 https://jmp2.uk/plu-668e60013a4ad20008c878f4.m3u8
 #EXTINF:-1 channel-id="61781254560f2e00071b78ce" tvg-id="61781254560f2e00071b78ce" tvg-chno="188" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/61781254560f2e00071b78ce/colorLogoPNG.png" group-title="Sport",World Poker Tour
@@ -117,10 +119,10 @@ https://jmp2.uk/plu-62724ae034f5190007b63424.m3u8
 https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
 #EXTINF:-1 channel-id="63dbe78051f5d000083e9249" tvg-id="63dbe78051f5d000083e9249" tvg-chno="266" tvg-name="Numb3rs" tvg-logo="https://images.pluto.tv/channels/63dbe78051f5d000083e9249/colorLogoPNG.png" group-title="Drama",Numb3rs
 https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
-#EXTINF:-1 channel-id="68c014ee337652ee75dab43b" tvg-id="68c014ee337652ee75dab43b" tvg-chno="268" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/68c014ee337652ee75dab43b/colorLogoPNG-1757418778179.png" group-title="Drama",Highway to Heaven
-https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8
 #EXTINF:-1 channel-id="61dd5bf8db0b8e00080804ff" tvg-id="61dd5bf8db0b8e00080804ff" tvg-chno="268" tvg-name="BET" tvg-logo="https://images.pluto.tv/channels/61dd5bf8db0b8e00080804ff/colorLogoPNG.png" group-title="Drama",BET
 https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
+#EXTINF:-1 channel-id="68c014ee337652ee75dab43b" tvg-id="68c014ee337652ee75dab43b" tvg-chno="268" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/68c014ee337652ee75dab43b/colorLogoPNG-1757418778179.png" group-title="Drama",Highway to Heaven
+https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8
 #EXTINF:-1 channel-id="65ba4db63ef47d000837b535" tvg-id="65ba4db63ef47d000837b535" tvg-chno="270" tvg-name="McLeods døtre & Grantchester" tvg-logo="https://images.pluto.tv/channels/65ba4db63ef47d000837b535/colorLogoPNG_1756125306200.png" group-title="Drama",McLeods døtre & Grantchester
 https://jmp2.uk/plu-65ba4db63ef47d000837b535.m3u8
 #EXTINF:-1 channel-id="65b916ec3af63d00084c5841" tvg-id="65b916ec3af63d00084c5841" tvg-chno="352" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b916ec3af63d00084c5841/colorLogoPNG.png" group-title="Film",Pluto TV Bud & Terence
@@ -219,10 +221,10 @@ https://jmp2.uk/plu-682b3932faaa60cd7dbf87b4.m3u8
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 channel-id="61814ff322e67b00074a5c43" tvg-id="61814ff322e67b00074a5c43" tvg-chno="558" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/61814ff322e67b00074a5c43/colorLogoPNG.png" group-title="Mat & livsstil",Project Runway
 https://jmp2.uk/plu-61814ff322e67b00074a5c43.m3u8
-#EXTINF:-1 channel-id="66d71485167a8b0008fd3345" tvg-id="66d71485167a8b0008fd3345" tvg-chno="560" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
-https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
 #EXTINF:-1 channel-id="63c95451d3485c0007734f55" tvg-id="63c95451d3485c0007734f55" tvg-chno="560" tvg-name="Tareq Taylor's Nordic Cookery" tvg-logo="https://images.pluto.tv/channels/63c95451d3485c0007734f55/colorLogoPNG.png" group-title="Mat & livsstil",Tareq Taylor's Nordic Cookery
 https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
+#EXTINF:-1 channel-id="66d71485167a8b0008fd3345" tvg-id="66d71485167a8b0008fd3345" tvg-chno="560" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
+https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
 #EXTINF:-1 channel-id="654a59d483595c0008187514" tvg-id="654a59d483595c0008187514" tvg-chno="602" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59d483595c0008187514/colorLogoPNG.png" group-title="Gamle godbiter",MacGyver
 https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
 #EXTINF:-1 channel-id="62a0ae8b2241f500073e0925" tvg-id="62a0ae8b2241f500073e0925" tvg-chno="604" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0ae8b2241f500073e0925/colorLogoPNG.png" group-title="Gamle godbiter",Walker Texas Ranger
