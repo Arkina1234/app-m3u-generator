@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/de.xml.gz"
 #EXTINF:-1 channel-id="DEBD3700001YD" tvg-id="DEBD3700001YD" tvg-chno="4001" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20251111T014025SQUARE.png" group-title="Entertainment",X-MAS Mix
 https://jmp2.uk/stvp-DEBD3700001YD
-#EXTINF:-1 channel-id="DEBC4700002Z2" tvg-id="DEBC4700002Z2" tvg-chno="4002" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20251111T013945SQUARE.png" group-title="Entertainment",Entertainment Mix
+#EXTINF:-1 channel-id="DEBC4700002Z2" tvg-id="DEBC4700002Z2" tvg-chno="4002" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20251118T015325SQUARE.png" group-title="Entertainment",Entertainment Mix
 https://jmp2.uk/stvp-DEBC4700002Z2
 #EXTINF:-1 channel-id="DEBA3300019EB" tvg-id="DEBA3300019EB" tvg-chno="4003" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251111T013950SQUARE.png" group-title="Fußball",FIFA+
 https://jmp2.uk/stvp-DEBA3300019EB
@@ -197,7 +197,7 @@ https://jmp2.uk/stvp-DEBA3300027ZJ
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1 channel-id="DEBD700001C5" tvg-id="DEBD700001C5" tvg-chno="4601" tvg-name="DAZN Rise" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD700001C5_20250107T024314SQUARE.png" group-title="Sport",DAZN Rise
 https://jmp2.uk/stvp-DEBD700001C5
-#EXTINF:-1 channel-id="DEBA2200008NL" tvg-id="DEBA2200008NL" tvg-chno="4605" tvg-name="Tennis Channel Deutschland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20250107T024021SQUARE.png" group-title="Sport",Tennis Channel Deutschland
+#EXTINF:-1 channel-id="DEBA2200008NL" tvg-id="DEBA2200008NL" tvg-chno="4605" tvg-name="Tennis Channel Deutschland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20251118T015316SQUARE.png" group-title="Sport",Tennis Channel Deutschland
 https://jmp2.uk/stvp-DEBA2200008NL
 #EXTINF:-1 channel-id="DE2000007B5" tvg-id="DE2000007B5" tvg-chno="4606" tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000007B5_20250729T044929SQUARE.png" group-title="Sport",Tennis+
 https://jmp2.uk/stvp-DE2000007B5
@@ -255,7 +255,7 @@ https://jmp2.uk/stvp-DE1300001XL
 https://jmp2.uk/stvp-DEBA3300030O1
 #EXTINF:-1 channel-id="DE2500001DO" tvg-id="DE2500001DO" tvg-chno="4742" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2500001DO_20250107T024819SQUARE.png" group-title="Musik",Cool Summer Channel
 https://jmp2.uk/stvp-DE2500001DO
-#EXTINF:-1 channel-id="DE1000002V4" tvg-id="DE1000002V4" tvg-chno="4743" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000002V4_20250923T065332SQUARE.png" group-title="Musik",SMTOWN
+#EXTINF:-1 channel-id="DE1000002V4" tvg-id="DE1000002V4" tvg-chno="4743" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000002V4_20251118T015322SQUARE.png" group-title="Musik",SMTOWN
 https://jmp2.uk/stvp-DE1000002V4
 #EXTINF:-1 channel-id="DEAK0500445A" tvg-id="DEAK0500445A" tvg-chno="4744" tvg-name="GoldStar TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20250506T021116SQUARE.png" group-title="Musik",GoldStar TV
 https://jmp2.uk/stvp-DEAK0500445A
