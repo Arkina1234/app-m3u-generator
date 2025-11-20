@@ -49,7 +49,7 @@ https://jmp2.uk/plu-6304f530440dc90007f514d3.m3u8
 https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8
 #EXTINF:-1 channel-id="61bb2814ac085a00074309a6" tvg-id="61bb2814ac085a00074309a6" tvg-chno="112" tvg-name="Unidad de investigación" tvg-logo="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png" group-title="Policiacas",Unidad de investigación
 https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
-#EXTINF:-1 channel-id="5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="120" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1761930969522.png" group-title="Crimen y Misterio",Archivos Forenses
+#EXTINF:-1 channel-id="5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="120" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png" group-title="Crimen y Misterio",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1 channel-id="5f1acbed25948a0007ffbe65" tvg-id="5f1acbed25948a0007ffbe65" tvg-chno="121" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="Crimen y Misterio",Los archivos del FBI
 https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
@@ -87,8 +87,6 @@ https://jmp2.uk/plu-66448a5a8ce31100086ae45e.m3u8
 https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 #EXTINF:-1 channel-id="60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-chno="161" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Entretenimiento",Mi Extraña Obsesión
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
-#EXTINF:-1 channel-id="65c347ae3a116800078c93c5" tvg-id="65c347ae3a116800078c93c5" tvg-chno="162" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c347ae3a116800078c93c5/colorLogoPNG.png" group-title="Entretenimiento",Monster Jam
-https://jmp2.uk/plu-65c347ae3a116800078c93c5.m3u8
 #EXTINF:-1 channel-id="68345769bbc703dfd45a8564" tvg-id="68345769bbc703dfd45a8564" tvg-chno="163" tvg-name="Pluto TV Tuning & Tattoos" tvg-logo="https://images.pluto.tv/channels/68345769bbc703dfd45a8564/colorLogoPNG_1752221864078.png" group-title="Entretenimiento",Pluto TV Tuning & Tattoos
 https://jmp2.uk/plu-68345769bbc703dfd45a8564.m3u8
 #EXTINF:-1 channel-id="6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="164" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Motor
