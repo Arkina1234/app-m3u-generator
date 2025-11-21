@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
 #EXTINF:-1 channel-id="5f984b18dfe75800070e8645" tvg-id="5f984b18dfe75800070e8645" tvg-chno="20" tvg-name="Pluto TV Cine Navideño" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Pluto TV Cine Navideño
 https://jmp2.uk/plu-5f984b18dfe75800070e8645.m3u8
-#EXTINF:-1 channel-id="69148c470155f9b136b5d856" tvg-id="69148c470155f9b136b5d856" tvg-chno="21" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Nuevo en Pluto TV",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="5f984fdc470d460007a67094" tvg-id="5f984fdc470d460007a67094" tvg-chno="21" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png" group-title="Nuevo en Pluto TV",MTV Hits Navidad
+https://jmp2.uk/plu-5f984fdc470d460007a67094.m3u8
+#EXTINF:-1 channel-id="69148c470155f9b136b5d856" tvg-id="69148c470155f9b136b5d856" tvg-chno="22" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Nuevo en Pluto TV",Pluto TV Snooker 900
 https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 #EXTINF:-1 channel-id="657868a7a620e30008fdbfeb" tvg-id="657868a7a620e30008fdbfeb" tvg-chno="50" tvg-name="Embrujadas" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1760372386064.png" group-title="Series Míticas",Embrujadas
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
