@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
+#EXTINF:-1 channel-id="68de3db35fc0afe85de0b843" tvg-id="68de3db35fc0afe85de0b843" tvg-chno="19" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="Nuevo en Pluto TV",Comedia a lo bestia de Pluto TV
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1 channel-id="5f984b18dfe75800070e8645" tvg-id="5f984b18dfe75800070e8645" tvg-chno="20" tvg-name="Pluto TV Cine Navideño" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Pluto TV Cine Navideño
 https://jmp2.uk/plu-5f984b18dfe75800070e8645.m3u8
 #EXTINF:-1 channel-id="5f984fdc470d460007a67094" tvg-id="5f984fdc470d460007a67094" tvg-chno="21" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png" group-title="Nuevo en Pluto TV",MTV Hits Navidad
