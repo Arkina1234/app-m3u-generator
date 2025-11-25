@@ -627,7 +627,7 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8
 #EXTINF:-1 channel-id="68b5a5402155bfc3488dc457-gb" tvg-id="68b5a5402155bfc3488dc457" tvg-chno="105" tvg-name="Saw" tvg-logo="https://images.pluto.tv/channels/68b5a5402155bfc3488dc457/colorLogoPNG_1759140416025.png" group-title="United Kingdom",Saw
 https://jmp2.uk/plu-68b5a5402155bfc3488dc457.m3u8
-#EXTINF:-1 channel-id="6682bd9b8768aa0008f25be5-es" tvg-id="6682bd9b8768aa0008f25be5" tvg-chno="105" tvg-name="Los misterios de Murdoch" tvg-logo="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1760372575275.png" group-title="Spain",Los misterios de Murdoch
+#EXTINF:-1 channel-id="6682bd9b8768aa0008f25be5-es" tvg-id="6682bd9b8768aa0008f25be5" tvg-chno="105" tvg-name="Los misterios de Murdoch" tvg-logo="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1763998601465.png" group-title="Spain",Los misterios de Murdoch
 https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8
 #EXTINF:-1 channel-id="62f4f414c2ba130007f8b24e-ca" tvg-id="62f4f414c2ba130007f8b24e" tvg-chno="105" tvg-name="King of Queens" tvg-logo="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png" group-title="Canada",King of Queens
 https://jmp2.uk/plu-62f4f414c2ba130007f8b24e.m3u8
@@ -5289,8 +5289,8 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1 channel-id="60fb299b79498900070b29e0-us" tvg-id="60fb299b79498900070b29e0" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="United States",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
-#EXTINF:-1 channel-id="62cdc7c2a3e6270007f3f2f3-us" tvg-id="62cdc7c2a3e6270007f3f2f3" tvg-chno="2570" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png" group-title="United States",CBS News Boston
-https://jmp2.uk/plu-62cdc7c2a3e6270007f3f2f3.m3u8
+#EXTINF:-1 channel-id="62cdc8fdb05d2b0007ef5035-us" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" group-title="United States",CBS News Miami
+https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1 channel-id="5d695f7db53adf96b78e7ce3-us" tvg-id="5d695f7db53adf96b78e7ce3" tvg-chno="2580" tvg-name="TODAY All Day" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="United States",TODAY All Day
 https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 #EXTINF:-1 channel-id="5459795fc9f133a519bc0bef-us" tvg-id="5459795fc9f133a519bc0bef" tvg-chno="2600" tvg-name="Scripps News" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="United States",Scripps News
