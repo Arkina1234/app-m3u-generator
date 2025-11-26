@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/es.xml.gz"
-#EXTINF:-1 channel-id="ES3900001QG" tvg-id="ES3900001QG" tvg-chno="4001" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251111T011938SQUARE.png" group-title="Música",K-POP by CJ ENM
+#EXTINF:-1 channel-id="ES3900001QG" tvg-id="ES3900001QG" tvg-chno="4001" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png" group-title="Música",K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
-#EXTINF:-1 channel-id="ESBD800004KU" tvg-id="ESBD800004KU" tvg-chno="4002" tvg-name="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20251111T011947SQUARE.png" group-title="Cine",Runtime Romance
+#EXTINF:-1 channel-id="ESBD800004KU" tvg-id="ESBD800004KU" tvg-chno="4002" tvg-name="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20251125T101435SQUARE.png" group-title="Cine",Runtime Romance
 https://jmp2.uk/stvp-ESBD800004KU
-#EXTINF:-1 channel-id="ESBA2200004G5" tvg-id="ESBA2200004G5" tvg-chno="4003" tvg-name="MyTime Movie Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20251111T011916SQUARE.png" group-title="Cine",MyTime Movie Network
+#EXTINF:-1 channel-id="ESBA2200004G5" tvg-id="ESBA2200004G5" tvg-chno="4003" tvg-name="MyTime Movie Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20251125T101404SQUARE.png" group-title="Cine",MyTime Movie Network
 https://jmp2.uk/stvp-ESBA2200004G5
 #EXTINF:-1 channel-id="ES26000068D" tvg-id="ES26000068D" tvg-chno="4004" tvg-name="Estilo y Vida – Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Entretenimiento",Estilo y Vida – Rakuten TV
 https://jmp2.uk/stvp-ES26000068D
 #EXTINF:-1 channel-id="ES260000968" tvg-id="ES260000968" tvg-chno="4005" tvg-name="Euronews EN DIRECTO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png" group-title="Noticias",Euronews EN DIRECTO
 https://jmp2.uk/stvp-ES260000968
-#EXTINF:-1 channel-id="ES400002P5" tvg-id="ES400002P5" tvg-chno="4006" tvg-name="Cuéntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251013T053438SQUARE.png" group-title="Serie",Cuéntame cómo pasó
+#EXTINF:-1 channel-id="ES400002P5" tvg-id="ES400002P5" tvg-chno="4006" tvg-name="Cuéntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20251125T101424SQUARE.png" group-title="Serie",Cuéntame cómo pasó
 https://jmp2.uk/stvp-ES400002P5
 #EXTINF:-1 channel-id="ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-chno="4007" tvg-name="La 1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20250819T033213SQUARE.png" group-title="Entretenimiento",La 1
 https://jmp2.uk/stvp-ESBC4100001NZ
@@ -167,7 +167,7 @@ https://jmp2.uk/stvp-ESBD3400001AA
 https://jmp2.uk/stvp-ESBC39000033J
 #EXTINF:-1 channel-id="ESBC1400001L8" tvg-id="ESBC1400001L8" tvg-chno="4557" tvg-name="El Confidencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" group-title="Noticias",El Confidencial
 https://jmp2.uk/stvp-ESBC1400001L8
-#EXTINF:-1 channel-id="ESBD190000137" tvg-id="ESBD190000137" tvg-chno="4561" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20250422T043326SQUARE.png" group-title="Noticias",CNN Headlines
+#EXTINF:-1 channel-id="ESBD190000137" tvg-id="ESBD190000137" tvg-chno="4561" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20251125T101418SQUARE.png" group-title="Noticias",CNN Headlines
 https://jmp2.uk/stvp-ESBD190000137
 #EXTINF:-1 channel-id="ESBD36000026Z" tvg-id="ESBD36000026Z" tvg-chno="4563" tvg-name="CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241106T142258SQUARE.png" group-title="Noticias",CNBC
 https://jmp2.uk/stvp-ESBD36000026Z
@@ -317,9 +317,9 @@ https://jmp2.uk/stvp-ESBC40000248
 https://jmp2.uk/stvp-ES500004NO
 #EXTINF:-1 channel-id="ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-chno="4949" tvg-name="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251111T011927SQUARE.png" group-title="Cine",Cine Friki
 https://jmp2.uk/stvp-ESBD800001RJ
-#EXTINF:-1 channel-id="ESBD80000288" tvg-id="ESBD80000288" tvg-chno="4994" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20250902T003646SQUARE.png" group-title="Cine",Runtime Acción
+#EXTINF:-1 channel-id="ESBD80000288" tvg-id="ESBD80000288" tvg-chno="4994" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251125T101432SQUARE.png" group-title="Cine",Runtime Acción
 https://jmp2.uk/stvp-ESBD80000288
-#EXTINF:-1 channel-id="ES300006QJ" tvg-id="ES300006QJ" tvg-chno="4996" tvg-name="Sony One Hits Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" group-title="Cine",Sony One Hits Acción
+#EXTINF:-1 channel-id="ES300006QJ" tvg-id="ES300006QJ" tvg-chno="4996" tvg-name="Sony One Hits Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251125T101438SQUARE.png" group-title="Cine",Sony One Hits Acción
 https://jmp2.uk/stvp-ES300006QJ
 #EXTINF:-1 channel-id="ES2600003UM" tvg-id="ES2600003UM" tvg-chno="4998" tvg-name="Películas de Drama - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png" group-title="Cine",Películas de Drama - Rakuten TV
 https://jmp2.uk/stvp-ES2600003UM

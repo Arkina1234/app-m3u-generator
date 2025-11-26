@@ -1,13 +1,17 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/dk.xml.gz"
 #EXTINF:-1 channel-id="6901d952ec12c3c759fdc7cd" tvg-id="6901d952ec12c3c759fdc7cd" tvg-chno="1" tvg-name="NCIS: Det bedste med Gibbs" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" group-title="Nyt på Pluto TV",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
-#EXTINF:-1 channel-id="6391ce99da3fda0008024a96" tvg-id="6391ce99da3fda0008024a96" tvg-chno="2" tvg-name="Vore værste år" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV",Vore værste år
+#EXTINF:-1 channel-id="6909fc4b74601d957a380613" tvg-id="6909fc4b74601d957a380613" tvg-chno="2" tvg-name="Hardcore Pawn" tvg-logo="https://images.pluto.tv/channels/6909fc4b74601d957a380613/colorLogoPNG_1763728614134.png" group-title="Nyt på Pluto TV",Hardcore Pawn
+https://jmp2.uk/plu-6909fc4b74601d957a380613.m3u8
+#EXTINF:-1 channel-id="6391ce99da3fda0008024a96" tvg-id="6391ce99da3fda0008024a96" tvg-chno="3" tvg-name="Vore værste år" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV",Vore værste år
 https://jmp2.uk/plu-6391ce99da3fda0008024a96.m3u8
-#EXTINF:-1 channel-id="6915dd5ca570568f53431c7f" tvg-id="6915dd5ca570568f53431c7f" tvg-chno="3" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/6915dd5ca570568f53431c7f/colorLogoPNG_1763041361750.png" group-title="Nyt på Pluto TV",The Graham Norton Show
+#EXTINF:-1 channel-id="6915dd5ca570568f53431c7f" tvg-id="6915dd5ca570568f53431c7f" tvg-chno="4" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/6915dd5ca570568f53431c7f/colorLogoPNG_1763041361750.png" group-title="Nyt på Pluto TV",The Graham Norton Show
 https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8
-#EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="4" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
+#EXTINF:-1 channel-id="69143de2a570568f53230cab" tvg-id="69143de2a570568f53230cab" tvg-chno="5" tvg-name="America's Funniest Home Videos: Holiday Edition" tvg-logo="https://images.pluto.tv/channels/69143de2a570568f53230cab/colorLogoPNG_1763714434142.png" group-title="Nyt på Pluto TV",America's Funniest Home Videos: Holiday Edition
+https://jmp2.uk/plu-69143de2a570568f53230cab.m3u8
+#EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="6" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
-#EXTINF:-1 channel-id="68adad09e7bb4fffe8a9461b" tvg-id="68adad09e7bb4fffe8a9461b" tvg-chno="5" tvg-name="Ernest goes to Pluto TV" tvg-logo="https://images.pluto.tv/channels/68adad09e7bb4fffe8a9461b/colorLogoPNG_1763018046124.png" group-title="Nyt på Pluto TV",Ernest goes to Pluto TV
+#EXTINF:-1 channel-id="68adad09e7bb4fffe8a9461b" tvg-id="68adad09e7bb4fffe8a9461b" tvg-chno="7" tvg-name="Ernest goes to Pluto TV" tvg-logo="https://images.pluto.tv/channels/68adad09e7bb4fffe8a9461b/colorLogoPNG_1763018046124.png" group-title="Nyt på Pluto TV",Ernest goes to Pluto TV
 https://jmp2.uk/plu-68adad09e7bb4fffe8a9461b.m3u8
 #EXTINF:-1 channel-id="68dfa160cc3c6cd90404d798" tvg-id="68dfa160cc3c6cd90404d798" tvg-chno="8" tvg-name="Ridiculousness - Nye afsnit" tvg-logo="https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png" group-title="Nyt på Pluto TV",Ridiculousness - Nye afsnit
 https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8

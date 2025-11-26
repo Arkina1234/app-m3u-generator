@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/de.xml.gz"
-#EXTINF:-1 channel-id="DEBD3700001YD" tvg-id="DEBD3700001YD" tvg-chno="4001" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20251111T014025SQUARE.png" group-title="Entertainment",X-MAS Mix
+#EXTINF:-1 channel-id="DEBD3700001YD" tvg-id="DEBD3700001YD" tvg-chno="4001" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20251125T102259SQUARE.png" group-title="Entertainment",X-MAS Mix
 https://jmp2.uk/stvp-DEBD3700001YD
-#EXTINF:-1 channel-id="DEBA2200008NL" tvg-id="DEBA2200008NL" tvg-chno="4002" tvg-name="Tennis Channel Deutschland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20251118T015316SQUARE.png" group-title="Sport",Tennis Channel Deutschland
+#EXTINF:-1 channel-id="DEBA2200008NL" tvg-id="DEBA2200008NL" tvg-chno="4002" tvg-name="Tennis Channel Deutschland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20251125T102245SQUARE.png" group-title="Sport",Tennis Channel Deutschland
 https://jmp2.uk/stvp-DEBA2200008NL
-#EXTINF:-1 channel-id="DEBA3300019EB" tvg-id="DEBA3300019EB" tvg-chno="4003" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251111T013950SQUARE.png" group-title="Fußball",FIFA+
+#EXTINF:-1 channel-id="DEBA3300019EB" tvg-id="DEBA3300019EB" tvg-chno="4003" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251125T102307SQUARE.png" group-title="Fußball",FIFA+
 https://jmp2.uk/stvp-DEBA3300019EB
 #EXTINF:-1 channel-id="DE2600003TR" tvg-id="DE2600003TR" tvg-chno="4004" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600003TR_20250415T021654SQUARE.png" group-title="News",Euronews LIVE
 https://jmp2.uk/stvp-DE2600003TR
 #EXTINF:-1 channel-id="DE2600004U3" tvg-id="DE2600004U3" tvg-chno="4005" tvg-name="Crime Serien - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600004U3_20250415T021646SQUARE.png" group-title="Crime",Crime Serien - Rakuten TV
 https://jmp2.uk/stvp-DE2600004U3
-#EXTINF:-1 channel-id="DEBD800001S4" tvg-id="DEBD800001S4" tvg-chno="4006" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20250415T021641SQUARE.png" group-title="News",CNN
+#EXTINF:-1 channel-id="DEBD800001S4" tvg-id="DEBD800001S4" tvg-chno="4006" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20251125T102302SQUARE.png" group-title="News",CNN
 https://jmp2.uk/stvp-DEBD800001S4
-#EXTINF:-1 channel-id="DEBC4700002Z2" tvg-id="DEBC4700002Z2" tvg-chno="4007" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20251118T015325SQUARE.png" group-title="Entertainment",Entertainment Mix
+#EXTINF:-1 channel-id="DEBC4700002Z2" tvg-id="DEBC4700002Z2" tvg-chno="4007" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20251125T102304SQUARE.png" group-title="Entertainment",Entertainment Mix
 https://jmp2.uk/stvp-DEBC4700002Z2
 #EXTINF:-1 channel-id="DEBC3000002Z5" tvg-id="DEBC3000002Z5" tvg-chno="4008" tvg-name="Comedy Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20251028T011231SQUARE.png" group-title="Entertainment",Comedy Mix
 https://jmp2.uk/stvp-DEBC3000002Z5
@@ -105,7 +105,7 @@ https://jmp2.uk/stvp-DE3000016Q
 https://jmp2.uk/stvp-DE3200016QF
 #EXTINF:-1 channel-id="DE3400003PW" tvg-id="DE3400003PW" tvg-chno="4255" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400003PW_20251013T054848SQUARE.png" group-title="Serien",Comedy & Shows
 https://jmp2.uk/stvp-DE3400003PW
-#EXTINF:-1 channel-id="DE32000175T" tvg-id="DE32000175T" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20250916T003529SQUARE.png" group-title="Serien",Stromberg
+#EXTINF:-1 channel-id="DE32000175T" tvg-id="DE32000175T" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251125T102312SQUARE.png" group-title="Serien",Stromberg
 https://jmp2.uk/stvp-DE32000175T
 #EXTINF:-1 channel-id="DEAK3504508A" tvg-id="DEAK3504508A" tvg-chno="4257" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20250107T024006SQUARE.png" group-title="Serien",Pluto TV Sitcoms
 https://jmp2.uk/stvp-DEAK3504508A
@@ -185,7 +185,7 @@ https://jmp2.uk/stvp-DEBA3300001L9
 https://jmp2.uk/stvp-DE2900001W0
 #EXTINF:-1 channel-id="DEAJ0500422A" tvg-id="DEAJ0500422A" tvg-chno="4533" tvg-name="Xplore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20250107T024224SQUARE.png" group-title="Food & Travel",Xplore
 https://jmp2.uk/stvp-DEAJ0500422A
-#EXTINF:-1 channel-id="DEBD19000012M" tvg-id="DEBD19000012M" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20250422T045246SQUARE.png" group-title="News",CNN Headlines
+#EXTINF:-1 channel-id="DEBD19000012M" tvg-id="DEBD19000012M" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20251125T102257SQUARE.png" group-title="News",CNN Headlines
 https://jmp2.uk/stvp-DEBD19000012M
 #EXTINF:-1 channel-id="DEBD1100002II" tvg-id="DEBD1100002II" tvg-chno="4559" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1100002II_20250107T024319SQUARE.png" group-title="News",FRANCE 24 FAST
 https://jmp2.uk/stvp-DEBD1100002II
