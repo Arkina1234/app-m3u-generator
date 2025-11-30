@@ -463,6 +463,10 @@ https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 #EXTINF:-1 channel-id="5d486acc34ceb37d3c458a64" tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="2705" tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="News + Opinion",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
+#EXTINF:-1 channel-id="68ed86f1fae18f8db6e4bcf9" tvg-id="68ed86f1fae18f8db6e4bcf9" tvg-chno="2749" tvg-name="FanDuel Sports Network NOW" tvg-logo="https://images.pluto.tv/channels/68ed86f1fae18f8db6e4bcf9/colorLogoPNG_1761081450863.png" group-title="Live Sports",FanDuel Sports Network NOW
+https://jmp2.uk/plu-68ed86f1fae18f8db6e4bcf9.m3u8
+#EXTINF:-1 channel-id="6903f5e3b573e6b45cbf5508" tvg-id="6903f5e3b573e6b45cbf5508" tvg-chno="2757" tvg-name="FanDuel Sports Network NOW" tvg-logo="https://images.pluto.tv/channels/6903f5e3b573e6b45cbf5508/colorLogoPNG_1762283503707.png" group-title="Sports",FanDuel Sports Network NOW
+https://jmp2.uk/plu-6903f5e3b573e6b45cbf5508.m3u8
 #EXTINF:-1 channel-id="5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="2780" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" group-title="Sports",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 channel-id="5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-chno="2790" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports
@@ -557,10 +561,10 @@ https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 #EXTINF:-1 channel-id="66df8aa7abec540008ca8cb6" tvg-id="66df8aa7abec540008ca8cb6" tvg-chno="3330" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/66df8aa7abec540008ca8cb6/colorLogoPNG.png" group-title="Home + Food",Homeful
 https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8
-#EXTINF:-1 channel-id="68bb162bb3900870ec364cbe" tvg-id="68bb162bb3900870ec364cbe" tvg-chno="3340" tvg-name="Beach Day" tvg-logo="https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png" group-title="Home + Food",Beach Day
-https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
 #EXTINF:-1 channel-id="66e0b265dd2d690008c5496b" tvg-id="66e0b265dd2d690008c5496b" tvg-chno="3340" tvg-name="Places & Spaces" tvg-logo="https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG.png" group-title="Home + Food",Places & Spaces
 https://jmp2.uk/plu-66e0b265dd2d690008c5496b.m3u8
+#EXTINF:-1 channel-id="68bb162bb3900870ec364cbe" tvg-id="68bb162bb3900870ec364cbe" tvg-chno="3340" tvg-name="Beach Day" tvg-logo="https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png" group-title="Home + Food",Beach Day
+https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
 #EXTINF:-1 channel-id="656542ae4261ca00082154a8" tvg-id="656542ae4261ca00082154a8" tvg-chno="3360" tvg-name="Ultimate Builds" tvg-logo="https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png" group-title="Home + Food",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 #EXTINF:-1 channel-id="6565430c9d5ac4000822f508" tvg-id="6565430c9d5ac4000822f508" tvg-chno="3370" tvg-name="Rustic Retreats" tvg-logo="https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png" group-title="Home + Food",Rustic Retreats
