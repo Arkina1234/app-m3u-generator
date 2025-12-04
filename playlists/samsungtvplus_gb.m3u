@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
 #EXTINF:-1 channel-id="GBBC4000002H3" tvg-id="GBBC4000002H3" tvg-chno="4001" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20251125T100306SQUARE.png" group-title="Food & Travel",The Jamie Oliver Channel
 https://jmp2.uk/stvp-GBBC4000002H3
+#EXTINF:-1 channel-id="GBBC400000345" tvg-id="GBBC400000345" tvg-chno="4002" tvg-name="Festive Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251202T002705SQUARE.png" group-title="Entertainment",Festive Hub
+https://jmp2.uk/stvp-GBBC400000345
 #EXTINF:-1 channel-id="GB3600002EB" tvg-id="GB3600002EB" tvg-chno="4003" tvg-name="The Osbournes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20251125T100308SQUARE.png" group-title="Reality",The Osbournes
 https://jmp2.uk/stvp-GB3600002EB
 #EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4004" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250415T020939SQUARE.png" group-title="News",Euronews LIVE
@@ -11,8 +13,6 @@ https://jmp2.uk/stvp-GB2600020OP
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 channel-id="GBBC2300003ZQ" tvg-id="GBBC2300003ZQ" tvg-chno="4007" tvg-name="Entertainment Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20250923T010642SQUARE.png" group-title="Entertainment",Entertainment Hub
 https://jmp2.uk/stvp-GBBC2300003ZQ
-#EXTINF:-1 channel-id="GBBC400000345" tvg-id="GBBC400000345" tvg-chno="4009" tvg-name="Festive Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20251202T002705SQUARE.png" group-title="Entertainment",Festive Hub
-https://jmp2.uk/stvp-GBBC400000345
 #EXTINF:-1 channel-id="GBBD3100003J5" tvg-id="GBBD3100003J5" tvg-chno="4033" tvg-name="U&Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" group-title="Entertainment",U&Laughs
 https://jmp2.uk/stvp-GBBD3100003J5
 #EXTINF:-1 channel-id="GB60000197" tvg-id="GB60000197" tvg-chno="4039" tvg-name="Sky Arts" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000197_20250107T153913SQUARE.png" group-title="Entertainment",Sky Arts
@@ -169,6 +169,8 @@ https://jmp2.uk/stvp-GBBD260000189
 https://jmp2.uk/stvp-GBAK3504516A
 #EXTINF:-1 channel-id="GBAK3504518A" tvg-id="GBAK3504518A" tvg-chno="4303" tvg-name="Pluto TV Inside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504518A_20250107T022641SQUARE.png" group-title="Crime",Pluto TV Inside
 https://jmp2.uk/stvp-GBAK3504518A
+#EXTINF:-1 channel-id="GB3600001XM" tvg-id="GB3600001XM" tvg-chno="4304" tvg-name="Medical Detectives" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600001XM_20251202T002708SQUARE.png" group-title="Crime",Medical Detectives
+https://jmp2.uk/stvp-GB3600001XM
 #EXTINF:-1 channel-id="GB37000128Y" tvg-id="GB37000128Y" tvg-chno="4305" tvg-name="Bloodline Detectives" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000128Y_20251111T012218SQUARE.png" group-title="Crime",Bloodline Detectives
 https://jmp2.uk/stvp-GB37000128Y
 #EXTINF:-1 channel-id="GB3700011PO" tvg-id="GB3700011PO" tvg-chno="4307" tvg-name="Evidence of Evil" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700011PO_20251111T012230SQUARE.png" group-title="Crime",Evidence of Evil
@@ -325,6 +327,8 @@ https://jmp2.uk/stvp-GBBD2300003IK
 https://jmp2.uk/stvp-GBBD1100008YW
 #EXTINF:-1 channel-id="GB26000118T" tvg-id="GB26000118T" tvg-chno="4633" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB26000118T_20250513T010726SQUARE.png" group-title="Sport",DFB Play TV
 https://jmp2.uk/stvp-GB26000118T
+#EXTINF:-1 channel-id="GB3500002R8" tvg-id="GB3500002R8" tvg-chno="4634" tvg-name="Bundesliga" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500002R8_20251202T002702SQUARE.png" group-title="Sport",Bundesliga
+https://jmp2.uk/stvp-GB3500002R8
 #EXTINF:-1 channel-id="GB2700012HS" tvg-id="GB2700012HS" tvg-chno="4635" tvg-name="Sky Sports Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700012HS_20250603T102403SQUARE.png" group-title="Sport",Sky Sports Classics
 https://jmp2.uk/stvp-GB2700012HS
 #EXTINF:-1 channel-id="GB2200002CC" tvg-id="GB2200002CC" tvg-chno="4636" tvg-name="GFN Soccer TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20250811T172929SQUARE.png" group-title="Sport",GFN Soccer TV
@@ -455,6 +459,8 @@ https://jmp2.uk/stvp-GB1700007PK
 https://jmp2.uk/stvp-GB2600013BO
 #EXTINF:-1 channel-id="GB3000370X" tvg-id="GB3000370X" tvg-chno="4961" tvg-name="GREAT! Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20250909T014635SQUARE.png" group-title="Movies",GREAT! Christmas
 https://jmp2.uk/stvp-GB3000370X
+#EXTINF:-1 channel-id="GB4100003VP" tvg-id="GB4100003VP" tvg-chno="4963" tvg-name="Thrillers - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="Movies",Thrillers - Rakuten TV
+https://jmp2.uk/stvp-GB4100003VP
 #EXTINF:-1 channel-id="GBAK3504503A" tvg-id="GBAK3504503A" tvg-chno="4995" tvg-name="Pluto TV Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504503A_20250107T022859SQUARE.png" group-title="Movies",Pluto TV Action
 https://jmp2.uk/stvp-GBAK3504503A
 #EXTINF:-1 channel-id="GB3000041I" tvg-id="GB3000041I" tvg-chno="4996" tvg-name="Sony One Action HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20251111T012209SQUARE.png" group-title="Movies",Sony One Action HITS

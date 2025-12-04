@@ -55,6 +55,8 @@ https://jmp2.uk/stvp-ES26000025M
 https://jmp2.uk/stvp-ES4100001XD
 #EXTINF:-1 channel-id="ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-chno="4203" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Entretenimiento",Ideas en 5 Minutos
 https://jmp2.uk/stvp-ESBC3500002PW
+#EXTINF:-1 channel-id="ES42000022E" tvg-id="ES42000022E" tvg-chno="4205" tvg-name="Xataka" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png" group-title="Entretenimiento",Xataka
+https://jmp2.uk/stvp-ES42000022E
 #EXTINF:-1 channel-id="ESBD1300004IG" tvg-id="ESBD1300004IG" tvg-chno="4211" tvg-name="Azteca Internacional" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png" group-title="Entretenimiento",Azteca Internacional
 https://jmp2.uk/stvp-ESBD1300004IG
 #EXTINF:-1 channel-id="ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-chno="4213" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="Entretenimiento",Encantador de Perros
@@ -65,11 +67,13 @@ https://jmp2.uk/stvp-ESBC4700003RJ
 https://jmp2.uk/stvp-ES500002NY
 #EXTINF:-1 channel-id="ES4700001VS" tvg-id="ES4700001VS" tvg-chno="4219" tvg-name="2M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png" group-title="Entretenimiento",2M
 https://jmp2.uk/stvp-ES4700001VS
+#EXTINF:-1 channel-id="ES4300006I4" tvg-id="ES4300006I4" tvg-chno="4220" tvg-name="El Mueble" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png" group-title="Entretenimiento",El Mueble
+https://jmp2.uk/stvp-ES4300006I4
 #EXTINF:-1 channel-id="ES1700003C6" tvg-id="ES1700003C6" tvg-chno="4222" tvg-name="Coreano by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="Entretenimiento",Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
 #EXTINF:-1 channel-id="ES2200001SF" tvg-id="ES2200001SF" tvg-chno="4223" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png" group-title="Entretenimiento",Fireplace Vibes
 https://jmp2.uk/stvp-ES2200001SF
-#EXTINF:-1 channel-id="ES3300006QL" tvg-id="ES3300006QL" tvg-chno="4235" tvg-name="RTVE Época" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20251202T002531SQUARE.png" group-title="Serie",RTVE Época
+#EXTINF:-1 channel-id="ES3300006QL" tvg-id="ES3300006QL" tvg-chno="4235" tvg-name="RTVE La Promesa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20251202T002531SQUARE.png" group-title="Serie",RTVE La Promesa
 https://jmp2.uk/stvp-ES3300006QL
 #EXTINF:-1 channel-id="ESBD1300001EP" tvg-id="ESBD1300001EP" tvg-chno="4237" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251028T011342SQUARE.png" group-title="Serie",Baywatch – Los Vigilantes de la Playa
 https://jmp2.uk/stvp-ESBD1300001EP
@@ -105,7 +109,7 @@ https://jmp2.uk/stvp-ESBC43000013T
 https://jmp2.uk/stvp-ES3600001Y7
 #EXTINF:-1 channel-id="ES2900003S3" tvg-id="ES2900003S3" tvg-chno="4270" tvg-name="Piel Salvaje" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900003S3_20251111T011943SQUARE.png" group-title="Telenovela",Piel Salvaje
 https://jmp2.uk/stvp-ES2900003S3
-#EXTINF:-1 channel-id="ES33000079W" tvg-id="ES33000079W" tvg-chno="4291" tvg-name="RTVE Crimen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20251202T002541SQUARE.png" group-title="Crimen",RTVE Crimen
+#EXTINF:-1 channel-id="ES33000079W" tvg-id="ES33000079W" tvg-chno="4291" tvg-name="RTVE Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20251202T002541SQUARE.png" group-title="Viajes y Cocina",RTVE Cocina
 https://jmp2.uk/stvp-ES33000079W
 #EXTINF:-1 channel-id="ESBA3300029UG" tvg-id="ESBA3300029UG" tvg-chno="4293" tvg-name="El Comisario" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png" group-title="Crimen",El Comisario
 https://jmp2.uk/stvp-ESBA3300029UG
@@ -123,6 +127,8 @@ https://jmp2.uk/stvp-ESBD3700001S0
 https://jmp2.uk/stvp-ES3300001MC
 #EXTINF:-1 channel-id="ES2600005G9" tvg-id="ES2600005G9" tvg-chno="4305" tvg-name="Crimen - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Crimen",Crimen - Rakuten TV
 https://jmp2.uk/stvp-ES2600005G9
+#EXTINF:-1 channel-id="ES45000012U" tvg-id="ES45000012U" tvg-chno="4307" tvg-name="Alerta Cobra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png" group-title="Crimen",Alerta Cobra
+https://jmp2.uk/stvp-ES45000012U
 #EXTINF:-1 channel-id="ES24000028L" tvg-id="ES24000028L" tvg-chno="4346" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png" group-title="Documentales",Ice Pilots
 https://jmp2.uk/stvp-ES24000028L
 #EXTINF:-1 channel-id="ES1600002QL" tvg-id="ES1600002QL" tvg-chno="4347" tvg-name="La Fiebre del Jade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png" group-title="Documentales",La Fiebre del Jade
@@ -131,7 +137,7 @@ https://jmp2.uk/stvp-ES1600002QL
 https://jmp2.uk/stvp-ES2700002YP
 #EXTINF:-1 channel-id="ES2800002MM" tvg-id="ES2800002MM" tvg-chno="4369" tvg-name="Mayday: Catástrofe Aérea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="Documentales",Mayday: Catástrofe Aérea
 https://jmp2.uk/stvp-ES2800002MM
-#EXTINF:-1 channel-id="ES33000036Q" tvg-id="ES33000036Q" tvg-chno="4412" tvg-name="RTVE Docs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20251202T002539SQUARE.png" group-title="Documentales",RTVE Docs
+#EXTINF:-1 channel-id="ES33000036Q" tvg-id="ES33000036Q" tvg-chno="4412" tvg-name="RTVE La Moderna" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20251202T002539SQUARE.png" group-title="Serie",RTVE La Moderna
 https://jmp2.uk/stvp-ES33000036Q
 #EXTINF:-1 channel-id="ES1400002CJ" tvg-id="ES1400002CJ" tvg-chno="4414" tvg-name="CURIOSITY Now" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png" group-title="Documentales",CURIOSITY Now
 https://jmp2.uk/stvp-ES1400002CJ
@@ -271,7 +277,7 @@ https://jmp2.uk/stvp-ES2600008NX
 https://jmp2.uk/stvp-ESAJ38000046O
 #EXTINF:-1 channel-id="ESBA3300028OE" tvg-id="ESBA3300028OE" tvg-chno="4823" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Niños",iCarly
 https://jmp2.uk/stvp-ESBA3300028OE
-#EXTINF:-1 channel-id="ES700004C8" tvg-id="ES700004C8" tvg-chno="4851" tvg-name="Runtime Familia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20251202T002536SQUARE.png" group-title="Cine",Runtime Familia
+#EXTINF:-1 channel-id="ES700004C8" tvg-id="ES700004C8" tvg-chno="4851" tvg-name="Runtime Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20251202T002536SQUARE.png" group-title="Cine",Runtime Christmas
 https://jmp2.uk/stvp-ES700004C8
 #EXTINF:-1 channel-id="ES260001081" tvg-id="ES260001081" tvg-chno="4852" tvg-name="100% Navidad - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251028T011440SQUARE.png" group-title="Cine",100% Navidad - Rakuten TV
 https://jmp2.uk/stvp-ES260001081
